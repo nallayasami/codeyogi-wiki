@@ -2,7 +2,7 @@
 title: Books
 description: 
 published: true
-date: 2025-01-14T15:48:20.713Z
+date: 2025-01-14T16:01:18.685Z
 tags: books, habbits
 editor: markdown
 dateCreated: 2025-01-14T15:48:20.713Z
@@ -10,12 +10,6 @@ dateCreated: 2025-01-14T15:48:20.713Z
 
 # Books
 
-<style>
-	.book {
-    width: 200px;
-  }
-</style>
-
 | book | description | link |
 | ---- | ----------- | ----------- |
-<img src="/assets/books/how_to_win_friends_and_influence_people.jpg" class="book"></img> |Book summary|https://amzn.to/4aiDaMS|
+![how_to_wind_friends.png](/assets/books/how_to_wind_friends.png) |Book summary|https://amzn.to/4aiDaMS|
