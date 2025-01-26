@@ -1,8 +1,8 @@
 ---
-title: Welcome
+title: Home
 description: 
 published: true
-date: 2025-01-24T10:00:17.489Z
+date: 2025-01-26T14:53:59.891Z
 tags: home
 editor: markdown
 dateCreated: 2024-12-30T11:33:44.695Z
