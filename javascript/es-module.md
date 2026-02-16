@@ -2,7 +2,7 @@
 title: Es Module
 description: 
 published: true
-date: 2025-01-13T19:14:44.942Z
+date: 2026-02-16T16:19:38.117Z
 tags: javascript
 editor: markdown
 dateCreated: 2025-01-07T22:30:48.817Z
