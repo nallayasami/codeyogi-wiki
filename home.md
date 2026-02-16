@@ -2,46 +2,40 @@
 title: Home
 description: 
 published: true
-date: 2025-01-26T14:53:59.891Z
+date: 2026-02-16T16:04:39.571Z
 tags: home
 editor: markdown
 dateCreated: 2024-12-30T11:33:44.695Z
 ---
 
-# Welcome to My CodeYogi! 🌟
+# Welcome to Nallai.dev 🌿
 
-Hi there! 👋 
+Hey there! 👋  
 
-Welcome to my little corner of the internet—a place dedicated to **learning, growth, and becoming a better version of ourselves** every single day—one small step at a time. 🚀
+Welcome to **Nallai.dev** — my cozy digital space to **learn, build, and grow** every day, one small step at a time. 🚀
 
-## Why This Wiki?
+## What This Is
 
-This wiki is my way of cultivating the habit of **learning, documenting, and sharing**. By putting my thoughts, learnings, and experiences into words, I aim to:
+This site is my personal log of **learning, sharing, and reflecting** — a way to grow while helping others do the same.
 
-1. **Enforce My Own Learning**: Writing and reflecting help me deepen my understanding.
-2. **Benefit Others**: I hope my journey can inspire or guide someone else on theirs.
-3. **Foster Growth**: Every small improvement adds up to a better, more fulfilled life.
+- 💻 Programming & Projects  
+- 📚 Books & Learning Notes  
+- 🧘 Mindset & Lifestyle  
+- 🛠️ Tools & Experiments  
 
-## What You'll Find Here
+## Why I Do This
 
-This is not just about **programming** or **software development** (although there's plenty of that! 😉). It's about a **holistic lifestyle** of growth and exploration. Here’s a glimpse of what you can expect:
-
-- 📚 Book Recommendations
-- 💡 Guided Learning
-- 🧘‍♂️ Lifestyle & Mindset
-- 🛠️ Tools & Techniques
-
-## Join Me on This Journey!
-
-This space is as much for **you** as it is for **me**. Whether you're here to explore new ideas, find guidance, or simply get inspired, I hope you’ll leave with something valuable.
-
-Let’s grow together and become the best versions of ourselves, one day at a time. 🌱
+Writing helps me **learn better**, **share more**, and **stay curious**.  
+If something here sparks an idea or helps you grow, that’s mission accomplished. 🌱
 
 ---
 
-> **"The journey of a thousand miles begins with a single step."**  
+> **"A thousand miles begin with a single step."**  
 > – Lao Tzu
 
 ---
 
-Feel free to explore, and don’t hesitate to reach out if you have questions, suggestions, or just want to say hi! 😊
+Thanks for visiting — feel free to explore, connect, or just say hi! 😊  
+
+---
+
